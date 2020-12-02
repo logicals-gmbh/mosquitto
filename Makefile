@@ -1,3 +1,5 @@
+# some comment
+
 include config.mk
 
 DIRS=lib client src
